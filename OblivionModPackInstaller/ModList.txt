@@ -1,0 +1,1198 @@
+--------     1)Oblivion Script Extender v21.8 Essential
+        File Name = xOBSE21.8.7z
+    Contents = (Oblivion)
+Data
+obse_1_2_416.dll
+obse_editor_1_2.dll
+obse_steam_loader.dll
+
+--------     2)Oblivion Mod Manager v1.1.12 Essential
+        File Name = obmm 1_1_12 full installer-2097.zip
+        Contents = (Oblivion)
+obmm_setup.exe
+
+--------     3) 4gb Ram Patch v1.0.0.1 Essential
+        File Name = 4gb_Patch_plus_Ram_optimization_readme-45576-1-0-0-1.zip
+Contents = (Oblivion)
+(Oblivion Ram Optimization) 4gb patch.exe
+
+--------     4)Oblivion Stutter Remover v4.1.37 Essential
+        File Name = OSR_4-1-37-23208-4-1-37.zip
+    Contents = (Oblivion)
+Data
+Src
+
+--------     5)Oblivion Reloaded lite Essential
+        File Name = ORL43-49931-4-3-1616948045.7z
+    Contents = (Oblivion>Data)
+OBSE
+Shaders
+Textures
+
+--------     6) MenuQue v16b Essential
+        File Name = MenuQue v16b-32200-v16b.zip
+        Contents = (Oblivion>Data)
+(Data) OBSE
+
+--------     7)  SkyBSA Essential
+        File Name =  SkyBSA-49568-1-1-0-1566477186.zip
+        Contents = (Oblivion>Data)
+OBSE
+Essential
+
+--------     1) Better Cities v6.0.13 Essential
+        File Name = Better Cities v6.0.13-16513-6-0-13-1590843631.7z
+        Contents = (Oblivion>Data)
+(00 Core) Meshes
+(00 Core) OBSE
+(00 Core) Video
+(00 Core) Better Cities - Meshes.bsa
+(00 Core) Better Cities - Sounds EV.bsa
+(00 Core) Better Cities - Textures.bsa
+(00 Core) Better Cities .esp
+(00 Core) Better Cities Resources.esm
+(01 Better Cities Full) Better Cities Full.esp
+(02 Better Imperial City Full) Better Imperial City.esp
+(07 IC Imperial Isle) Better Cities - IC Imperial Isle.esp
+(30 Knights of the Nine Chorrol) Better Cities Chorrol - Knights of the Nine.esp
+(31Oblivion Uncut) Better Cities Market District -Oblivion Uncut.esp
+(40 Bravil Vanilla) Better Cities - Bravil Vanilla.bsa
+
+        File Name = OSPS BC Imperial Isle Patch Compendium v6.0.8a-45817-6-0-8a.7z
+        Contents = (Oblivion>Data)
+(00 BC_IC-II_UL-II Merged) ULM OSPS-BC_IC-II_UL-II_Patch.esp
+
+        File Name = UL Compatibility Patches Compilation WIZBAIN v13-13834-13.7z
+        Contents = (Oblivion>Data)
+(01 Merged) ULM BetterCities-UniqueLandscapes merged patch.esp
+
+--------     2)Oblivion Uncut vX (6/20) Essential
+        File Name =Oblivion Uncut - Version X (June 2020)-47191-X-1591355913.rar
+        Contents = (Oblivion>Data)
+*All
+
+        File Name =Oblivion Uncut - UL Ancient Yews Patch-48754-1-0.7z
+        Contents = (Oblivion>Data)
+(Oblivion Uncut Ancient Yews Patch>UL Merged) ULMOblivionUncut-AncientYews patch.esp
+
+        File Name = UL Compatibility Patches Compilation WIZBAIN v13-13834-13.7z
+        Contents = (Oblivion>Data)
+(01 Merged) ULMOblivionUncut-EntiusGorge patch.esp
+
+        File Name =Oblivion uncut patch 3516-4564.zip
+        Contents = (Oblivion>Data)
+Music
+
+--------     3)  A Brotherhood Renewed v1.1.2 Essential
+        File Name = A Brotherhood Renewed-31773-1-1-2-1557803995.7z
+        Contents = (Oblivion>Data)
+*All except .txt
+
+--------     4) Elsweyr Anequina- v3 Essential
+        File Name = Elsweyr Anequina-25023-March-2014-1561735850.rar
+Contents = (Oblivion>Data)
+DistantLOD
+Meshes
+Textures
+ElsweyrAnequina - Meshes.bsa
+ElsweyrAnequina - Textures.bsa
+ElsweyrAnequina - Voices.bsa
+ElsweyrAnequina.esp
+
+        File Name = Unofficial Elsweyr Anequina Patch 1-4 Full-39642-1-4.7z
+        Contents = (Oblivion>Data)
+Meshes
+Textures
+Unofficial Elsweyr Anequina Patch.esp
+
+        File Name = Elsweyr Dune Clutter Remover-39642-0-1.zip
+        Contents = (Oblivion>Data)
+ElsweyrAnequinaDuneClutterRemover.esp
+
+--------     5) The Lost Spires v14 Essential
+        File Name = thelostspiresv14.zip
+        Contents = (Oblivion>Data)
+*All
+
+        File Name = Better Cities v6.0.13-16513-6-0-13-1590843631.7z
+        Contents = (Oblivion>Data)
+(30 The Lost Spires) Better Cities - The Lost Spires.esp
+
+        File Name = UL Compatibility Patches Compilation WIZBAIN v13-13834-13.7z
+Contents = (Oblivion>Data)
+(01 Merged or Separate) ULE LostSpires-UniqueLandscapes merged patch.esp
+
+--------     6) Unique Landscapes v2.1.2 Essential
+        File Name = Unique Landscapes Compilation v2.1.2-19370-2-1-2-1579349210.7z
+        Contents = (Oblivion>Data)
+(00 Core) Video
+(00 Core) Unique Landscapes.bsa
+(95 Full Merge - Excludes Chorrol Hinterland) Unique Landscapes.esp
+
+--------     7) Mannimarco Resurrection v2.5 Essential
+        File Name = Mannimarco Resurrection 2_5-15251.7z
+        Contents = (Oblivion>Data)
+(MannimarcoResurrection) MannimarcoComplete.bsa
+(MannimarcoResurrection) MannimarcoComplete.esp
+
+--------     8) Thieves Guild HQ – Unhealthy Competition v2 Essential
+        File Name = Thieves Guild HQ - Unhealthy Competition-34465.7z
+        Contents = (Oblivion>Data)
+*All except for .txt
+
+--------     9) Bartholm v7 Essential
+        File Name = Bartholm70 Full-5022.zip
+        Contents = (Oblivion>Data)
+bartholm.bsa
+bartholm.esp
+
+--------     10) Cloud Ruler Temple Alive v1 Essential
+        File Name = CRTAlive-42929-.7z
+        Contents = (Oblivion>Data)
+(Cloud Ruler Temple Alive) *All but .txt
+
+--------     11) Dibella’s Watch Essential
+        File Name = Dibellas Watch-37120-1.zip
+        Contents = (Oblivion>Data) 
+(DibellasWatch>Data) distantlod
+(DibellasWatch>Data) meshes
+(DibellasWatch>Data) textures
+(DibellasWatch>Data) DibellasWatch.esm
+
+        File Name = Dibellas Watch Patch-37120.zip
+        Contents = (Oblivion>Data)
+(DibellasWatchPatch>Data) *All but .txt
+
+--------     12) Dive Rock Revisited v0.1 Essential
+        File Name = Dive Rock Revisited-10522.rar
+        Contents = (Oblivion>Data)
+Dive Rock Revisited.esp
+
+--------     13) Arena Alive v1.0 Essential
+        File Name = ArenaAlive24HrV2-13099.7z
+        Contents = (Oblivion>Data)
+Meshes
+Textures
+24HrArenaAliveV2.esp
+24HrArenaAliveV2Towers.esp
+
+--------     14) Kvatch Rebuilt v3ORC3 Essential
+        File Name = Kvatch Rebuilt 3.0 RC3-15412-3-0RC3-1565022556.zip
+        Contents = (Oblivion>Data)
+*All
+
+--------     15) Shadowcrest Vineyard v1.02 Essential
+        File Name = Shadowcrest Vineyard -22810.7z
+        Contents = (Oblivion)
+Data
+
+        File Name = SV_Guard_Addon-22810.7z
+        Contents = (Oblivion>Data)
+Shadowcrest_Vineyard_Guard.esp
+
+--------     16) The Forgotten Realm v1.6 Essential
+        File Name = The Forgotten Realm Part 1 of 3-35696-1-6.7z
+        Contents = (Oblivion)
+(TheForgottenRealm 1_6 Part 1 of 3) Data
+
+        File Name = The Forgotten Realm Part 2 of 3-35696.7z
+        Contents = (Oblivion)
+(TheForgottenRealm 1_3 Part 2 of 3) Data
+
+        File Name = The Forgotten Realm Part 3 of 3-35696.7z
+        Contents = (Oblivion)
+(TheForgottenRealm 1_3 Part 3 of 3) Data
+
+--------     17) Natural History Museum v1.1_c Essential
+        File Name = Natural History Museum-7593.7z
+        Contents = (Oblivion>Data)
+Museum.esp
+textures
+meshes
+
+--------     18) Elder Council’s Chambers v1.1 Essential
+        File Name = EC-chambers1-1-43210-1-1.rar
+        Contents = (Oblivion>Data)
+EC Chambers 1.1.esp
+
+--------     19) Emperor’s Room v1.0 Essential
+        File Name = EmperorsRoomMQ-49910-1-0-1582410683.zip
+        Contents = (Oblivion>Data)
+EmperorsRoomMQ.esp
+
+--------     20) The Dark Tower v9 Essential
+        File Name = The Dark Tower 1 of 4-31183.7z
+        Contents = (Oblivion>Data)
+(P 01>Reaper's The Dark Tower part 1 of 5.7z>Reaper's The Dark Tower part 1 of 6) Textures
+(P 01>Reaper's The Dark Tower part 2 of 5.7z>Reaper's The Dark Tower part 2 of 5) Textures
+
+        File Name = The Dark Tower 2 of 4-31183.7z
+        Contents = (Oblivion>Data)
+(P 02>Reaper's The Dark Tower part 3 of 5.7z>Reaper's The Dark Tower part 3 of 5) Textures
+(P 02>Reaper's The Dark Tower part 4 of 5.7z>Reaper's The Dark Tower part 4 of 5) Textures
+
+        File Name = The Dark Tower 3 of 4-31183.7z
+        Contents = (Oblivion>Data)
+(P 03>Reaper's The Dark Tower part 5 of 5.7z>Reaper's The Dark Tower part 5 of 5) Meshes
+(P 03>Reaper's The Dark Tower part 5 of 5.7z>Reaper's The Dark Tower part 5 of 5) Sound
+
+        File Name = The Dark Tower P 4 of 4 admin upload-31183-1.zip
+        Contents = (Oblivion>Data)
+(P 04>Reaper's The Dark Tower part 6 of 6.zip>Reaper's The Dark Tower part 6 of 6) Reaper's The Dark Tower.esp
+
+        File Name = PYFFI Optimized Reapers The Dark Tower Meshes-45800-1-0.rar
+        Contents = (Oblivion>Data)
+            1) Meshes
+
+--------     21) Knights of the Nine Revelation v1.3.7 Essential
+        File Name = Knights of the Nine Revelation 1_3_7 Full Install-42490-1-3-7.7z
+        Contents = (Oblivion>Data)
+*All except .pdf
+
+--------     22) Better Abandoned House Essential
+        File Name = Better Abandoned House-25319-2-01-0.7z
+        Contents = (Oblivion>Data)
+(00 Core Files (Required) *All
+(02 Better Cities FULL Patch) Better Abandoned House - BC_OBC Patch.esp
+
+--------     23) Better Dark Brotherhood Lair Essential
+        File Name = Better Dark Brotherhood Sanctuary-22135-3-41-000.7z
+        Contents = (Oblivion>Data)
+1) (00 Core Files (Required) Better Dark Brotherhood Sanctuary.bsa
+2) (00 Core Files (Required) Better Dark Brotherhood Sanctuary.esp
+3) (11 Insanity's Sanctuary Textures) Meshes
+4) (11 Insanity's Sanctuary Textures) Textures
+
+--------     26)  Phitt’s Artifacts v1.1  Essential
+        File Name = PTArtifactsProperV11-29931.7z
+        Contents = (Oblivion>Data)
+PTArtifacts.bsa
+PTArtifacts.esp
+
+
+--------     27) Midas Magic v995A Essential
+        File Name = MIDAS MAGIC SPELLS OF AURUM 0995-9562.zip
+        Contents = (Oblivion>Data)
+MidasSpells.bsa
+
+        File Name = MIDAS MAGIC SPELLS OF AURUM 0995 Patch A-9562.zip
+        Contents = (Oblivion>Data)
+MidasSpells.esp
+
+--------     28) Akaviri Imports v1.1 Essential
+        File Name = Akaviri Imports 1.1-4167.7z
+        Contents = (Oblivion>Data)
+Meshes
+Textures
+Akaviri Imports.esp
+Akaviri_Imports.esp
+
+--------     29) Mark and Recall v2.1 Essential
+        File Name = Mark and Recall V2.1-2685.7z
+        Contents = (Oblivion>Data)
+ Mark & Recall.esp
+
+--------     30) RuneSkulls v1.1 Essential
+        File Name = RuneSkulls-9412.zip
+        Contents = (Oblivion>Data)
+Meshes
+Textures
+
+        File Name = ExnemRuneskulls patch 16512-132.zip
+        Contents = (Oblivion>Data)
+ExnemRuneskulls.esp
+
+--------     31) The Forgotten Sheilds v1.1 Essential
+        File Name = The Forgotten Shields v1_1 Full version-13707.rar
+        Contents = (Oblivion>Data)
+(TheForgottenShields1.1) *All except for .txt
+
+        File Name = TFS_Voice_Pack_Update-13707.rar
+        Contents = (Oblivion>Data)
+(TFS_Voice_Pack) sound
+
+        File Name = Optional HighRes Texture for Eleidons Ward-13707.7z
+        Contents = (Oblivion>Data)
+(TFS_EleidonHighRes) textures
+
+--------     32) The Golden Arrow Archers Shop v1.4 Essential
+        File Name = The Golden Arrow Archers Shop-2203.zip
+        Contents = (Oblivion>Data
+ goldenarrowarcheryshopfixedprices.esp
+
+-------- 33) Adonnay’s Elven Weaponry v3.75 Essential
+        File Name = Classical Weaponry v070 - OBSE-9185.7z
+        Contents = (Oblivion>Data)
+Meshes
+Textures
+Adonnays Classical Weaponry.esp
+
+        File Name = Elven Weaponry 375 full final-4804.7z
+        Contents = (Oblivion>Data)
+Meshes
+Textures
+Adonnays Elven Weaponry.esp
+
+--------     34) Anywhere sittable v1.1 Essential
+        File Name = Anywhere Sittable-5243.zip
+        Contents = (Oblivion>Data)
+*All but .txt
+
+--------     35) Double-tap dodge v1.2 Essential
+        File Name = Double-tap dodge v1-2-35727-1-2.7z
+        Contents = (Oblivion>Data)
+Double-tap dodge.esp
+
+--------     36) Enhanced Economy v5.4.3 Essential
+        File Name = Enhanced Economy 5_4_3-25078.7z
+        Contents = (Oblivion>Data)
+(00 Core) *All
+(40 Better Cities - House price x 7) Better Cities - House price patch.esp
+(30 Bartholm - House price x 7) bartholm - EE patch.esp
+
+ World, Guilds, & Quests   
+
+--------     1) ImpeREAL Empire-Unique Forts v2.6.1 
+        File Name = ImpeREAL Empire Unique Forts v2_61-22965-v2-61.rar
+        Contents = (Oblivion>Data)
+ImpeREAL Empire - Unique Forts.esp
+
+        File Name = ImpeREALForts+LostSpires Patch.7z
+        Contents = (Oblivion>Data)
+ImpeREALForts+LostSpires Patch.esp
+
+        File Name = UL Compatibility Patches Compilation WIZBAIN v13-13834-13.7z
+        Contents = (Oblivion>Data)
+(01 Merged) ULM ImpeREALForts-LostSpires-SilverfishRiverValley patch.esp
+
+--------     2) Lost Paladins of the Divines v1.0
+        File Name = Lost Paladins of the Divines 1_0 OMOD-Ready-10505.7z
+        Contents = (Oblivion>Data)
+Meshes
+sound
+Textures
+Lost Paladins of the Divines.esp
+
+--------     3) Better Dungeons v13
+        File Name = Better Dungeons-40392-v13.7z
+        Contents = (Oblivion>Data)
+Better Dungeons.esp
+Better Dungeons.bsa
+
+        File Name =  Better Dungeons Patch.zip
+        Contents = (Oblivion>Data)
+Better Dungeons.esp
+
+--------     4) Jail Break Escape Routes v1.2
+        File Name = Jail Break Escape Routes v1_2-39385-v1-2.zip
+        Contents = (Oblivion>Data)
+Jail Break Escape Routes.esp
+
+--------     5) Adaman Fortress v1.01
+        File Name = Adaman Fortress v1_01-24831.zip
+        Contents = (Oblivion>Data)
+1) Sound
+2) Adaman Fortress.esp
+
+--------     6) Brutal Underground v1.1
+        File Name = Brutal Underground - main file-39877-1-1.7z
+        Contents = (Oblivion>Data)
+*All but .txt
+
+        File Name = Brutal Underground Patch 98798 - 7689.7z
+        Contents = (Oblivion)
+Data
+
+        File Name = Punk Stevo - Brutal Underground Patch.zip
+        Contents = (Oblivion>Data)
+Punk Stevo - Brutal Underground.esp
+
+--------     7) Archmages Study v1.2
+        File Name = DJZ_Archmages_Study-28130.zip
+        Contents = (Oblivion>Data)
+*All but .txt
+
+        File Name = Tower Meshes-28130.zip
+        Contents = (Oblivion>Data)
+Meshes
+Textures
+
+--------     8) Fighters Guild Quests v1.8
+        File Name = Fighters Guild Quests 1_8-41012-1-7.7z
+        Contents = (Oblivion)
+(Fighters Guild Quests 1_8) Data
+
+        File Name = Snowdale - Fighters Guild Quests Patch 1_0-41012.7z
+        Contents = (Oblivion)
+(Snowdale - Fighters Guild Quests Patch 1_0) Data
+
+--------     9) Ivellon 1.8
+        File Name = Ivellon-1.7a-English.7z
+        Contents = (Oblivion>Data)
+*All Except .esp
+
+        File Name = Ivellon_Patch_1.8.7z
+        Contents = (Oblivion>Data)
+Ivellon.esp
+
+        File Name = UL Compatibility Patches Compilation WIZBAIN v13-13834-13.7z
+        Contents = (Oblivion>Data)
+(01 Merged or Separate) ULE DungeonsOfIvellon-CheydinhalFalls patch.esp
+
+--------     10) Spire of Eternity v1.0
+        File Name = Spire of Eternity-49763-1-0-1576272654.rar
+        Contents = (Oblivion>Data)
+Spire of Eternity.esp
+
+--------     11) Trade and Commerce v1.5
+        File Name = TaC 1_5-39255-V1-5.rar
+        Contents = (Oblivion)
+(Data) *All except ReadMe’s
+
+--------     12) The Throne of the Emporer v1.0 
+        File Name = TTOTE-15419.rar
+        Contents = (Oblivion>Data)
+The Throne Of The Emperor.esp
+
+--------     13) More Magical Mages Guild v1.0
+        File Name = CLEANED More Magical Mages Guilds-49989-1-0a-1585479185.zip
+        Contents = (Oblivion>Data)
+(More Magical Mages Guild Clean) textures
+(More Magical Mages Guild Clean) meshes
+
+        File Name = More Magical Mages Guild-49989-1-1-1586601888.zip
+        Contents = (Oblivion>Data)
+More Magical Mages Guilds Clean.esp
+
+--------     14) ESO Imports v1.0
+        File Name = ESOImports 1 0-48849-1-0-1539524340.zip
+        Contents = (Oblivion>Data)
+*All
+
+--------     15) Red Rose Manor v2.3.1
+        File Name = Red Rose Manor ver 2_3_1-37842-2-3-1.7z
+        Contents = (Oblivion>Data)
+EM_RedRoseManor.bsa
+EM_RedRoseManor.esp
+
+--------     16) Stirk v1.3
+        File Name = Stirk 1_3-22401-1-3.7z
+        Contents = (Oblivion>Data)
+*All except .txt
+
+--------     17) Sutch v1.0
+        File Name = ImpeREAL Empire - Unique Cities - Sutch-37867-0-8.zip
+        Contents = (Oblivion)
+ Data
+
+--------     18) Arena Champion Villa v1.02
+        File Name = Arena Champion Villa-50321-1-01-1596300917.7z
+        Contents = (Oblivion)
+ (ArenaChampionVilla.v1.01) Data
+
+--------     19) Oblivion Collectible Cards
+        File Name =  OCCv1dot7-19140-1-7.7z
+        Contents = (Oblivion>Data)
+(OCCv1dot7_final)Oblivion Collectible Cards.bsa
+(OCCv1dot7_final)Oblivion Collectible Cards.esp
+
+        File Name = Oblivion Collectible Cards UL Cheydinhal Falls Patch 1_1-33542.7z
+        Contents = (Oblivion)
+(Oblivion Collectible Cards UL Cheydinhal Falls Patch 1_1) Data
+
+        File Name =  Better Cities v6.0.13-16513-6-0-13-1590843631.7z
+        Contents = (Oblivion>Data)
+(30Oblivion Collectible Cards) Better Cities -Oblivion Collectible Cards.esp
+
+--------     20)  Reedstand
+        File Name =  Reedstand-40343-1-0-5-1562529815.7z
+        Contents = (Oblivion>Data)
+*All but .txt
+
+--------     21)  Talos Bridge Gatehouse
+        File Name =  Talos Bridge Gatehouse-37366-1-1.rar
+        Contents = (Oblivion>Data)
+*All but .txt
+
+        File Name =  TalosBridgeGateHouse Patch.zip
+        Contents = (Oblivion>Data)
+TalosBridgeGateHouse.esp
+
+--------     1) Crowded Cities v1.2 (Full Install Only)
+        File Name = Crowded Cities 12-6665.zip
+        Contents = (Oblivion>Data)
+Crowded Cities 15.esp
+
+--------     2) Crowded Roads v2.0
+        File Name = Crowded Roads Revamped-4805.rar
+        Contents = (Oblivion>Data)
+ Crowded Roads.esp
+
+--------     3) Populated Prisons v1.2
+        File Name = Populated Prisons 12-25232-1-2.7z
+        Contents = (Oblivion>Data)
+*All except .txt
+
+--------     4) Companion Vilja v4.04
+        File Name = CompanionViljaALL_IN_ONE_V4_04-28977-4-04.7z
+        Contents = (Oblivion>Data)
+1em_Vilja.esp
+
+        File Name = Almagerds Vilja for OCO-28977-.7z
+        Contents = (Oblivion>Data)
+1em_Vilja OCOv2 Alternative.esp
+
+        File Name = Xtudos Noise Reduction BSA for Vilja ver 4 0-28977.rar
+        Contents = (Oblivion>Data)
+1em_Vilja.bsa
+
+--------     5) Random Road Encounters v1.3
+    File Name = Random Road Encounters - Leveled Lists Version-49942-1-2-1584285891.zip
+        Contents = (Oblivion>Data)
+RandomRoadEncountersLeveledLists.esp
+
+    File Name = Random Road Encounters - Shivering Isles-49942-1-1-1584026511.zip
+        Contents = (Oblivion>Data)
+RandomRoadEncountersShiveringIsles.esp
+
+--------     6)  The Duelists
+        File Name =  The Duelists v96-34407.rar
+        Contents = (Oblivion>Data)
+The Duelists.esp
+
+--------     7) Children of Cyrodil v1.1 Essential
+        File Name = Children of Cyrodiil ver 1 1-45948-.7z
+        Contents = (Oblivion>Data)
+            1) *All but .txt
+ 
+--------     1) Bag of Holding v1.5
+        File Name = Bag of Holding-4065.zip
+        Contents = (Oblivion>Data)
+Bag of Holding.bsa
+Bag of Holding.esp
+
+--------     2) Immersive Weapons v2.0
+        File Name = Immersive Weapons 2-43879-2.7z
+        Contents = (Oblivion>Data)
+Textures
+Immersive Weapons.bsa
+Immersive Weapons.esp
+
+--------     3) The Journal Mod v3.2.1
+        File Name = Pluggy v125b-23979.7z
+        Contents = (Oblivion>Data>OBSE>Plugins)
+OBSE_Elys_Pluggy.dll
+OBSE_Elys_Pluggy.dlx
+
+        File Name = Journal Mod v3x2x1-15294.zip
+        Contents = (Oblivion>Data)
+meshes
+textures
+
+        File Name = Journal Mod v3x2x1-15294.zip
+        Contents = (Oblivion>Data>Menus)
+(menus) prefabs
+book_menu (vanilla-or-BTmod).xml                    **Rename to book_menu.xml**
+
+        File Name = Journal Mod v3x2x1 HOTFIX-15294.zip
+        Contents = (Oblivion>Data)
+Kyoma's Journal Mod.esp
+
+--------     4) The Keychain Mod v5.0
+        File Name = Keychain v5_00-3409.7z
+        Contents = (Oblivion>Data)
+Meshes
+Textures
+P1DkeyChain.esp
+
+--------     5) Reznod’s Mannequins v3
+        File Name = Reznod Mannequins-2055.zip
+        Contents = (Oblivion>Data)
+*All except .txt
+
+--------     6) Myths and Legends Weapons v2.3.6
+        File Name = Myths and Legends _ Weapons 2-5902.zip
+        Contents = (Oblivion>Data)
+*All except .txt
+
+--------     7) Telekinetic Mastery v2
+        File Name = TelekineticMastery_v2p0-10144.zip
+        Contents = (Oblivion>Data)
+(Telekinetic Mastery) *All except .txt
+
+--------     8) All normal clothes buyable v1.0
+        File Name = All normal clothes buyable-3955.rar
+        Contents = (Oblivion>Data)
+All normal clothes buyable.esp
+
+--------     9) Marcos samurai armor v4
+        File Name = _Marcos samurai armor V4-5414.rar
+        Contents = (Oblivion>Data)
+Meshes
+Textures
+samurai.esp
+
+--------     10) Hemingway’s Capes v3
+        File Name = Hemingweys Capes v3_0 beta-29012-1.exe
+        Contents = (Oblivion>Data)
+Meshes
+Textures
+Hemingweys Capes Improved.esm
+Hemingweys Capes Improved.esp
+
+        File Name = Icon Fix for 3_0 Beta-29012.7z
+        Contents = (Oblivion>Data)
+Textures
+
+--------     11) Armory of the Silver Dragon  v0.9.3
+        File Name = Silver Dragon 0_9_3-8440.7z
+        Contents = (Oblivion>Data)
+Meshes
+Textures
+Armory of the Silver Dragon.esp
+
+--------     12) Welkynd Armour v1.0
+        File Name = WelkyndArmour-AbaAdabala-35927-1-0.rar
+        Contents = (Oblivion>Data)
+Meshes
+textures
+
+        File Name = ESP Replacer-35927-1-3.rar
+        Contents = (Oblivion>Data)
+WelkyndArmorAbaAdabala.esp
+
+--------     13) Fuse’s Fruit Machine v1.1
+        File Name = Fuses Fruit Machine v1.1-10823.rar
+        Contents = (Oblivion>Data)
+*All except .txt
+
+--------     14) Weapon Expansion Pack v1.11
+        File Name = WEPON Base InstallOblivion and SI-35560-1-11.zip
+        Contents = (Oblivion>Data)
+*All except (Documentation) 
+
+--------     15)  Morrigan Armor
+        File Name =  Morrigan Armor Set v1_0-16401.7z
+        Contents = (Oblivion>Data)
+Meshes
+Textures
+Morrigan Armor Set v1_0.esp
+
+--------     16) Zira Medieval Horse Clothes v1.0 (All DLC Only)
+        File Name = Zira Medieval Horse Clothes-26788.7z
+        Contents = (Oblivion>Data)
+(Zira's Medieval Horse Clothes) *All except .txt
+
+--------     17) Imperial Horse Armor v1.1 (All DLC Only)
+        File Name = Imperial Horse Armor-3352.zip
+        Contents = (Oblivion>Data)
+Imperial Horse Armor.esp
+
+--------     1) Command Mount v1.0
+        File Name = CommandMount-27957.zip
+        Contents = (Oblivion>Data)
+Command Mount.esp
+
+--------     2) Necromancy and Lichdom v3.2.3
+        File Name = Necromancy and Lichdom 3.2.3-49700-3-2-3-1591733089.7z
+        Contents = (Oblivion)
+Data
+
+--------     3) Pet your Animals v3
+        File Name = Pet your animals-48398-3-0-1542606226.zip
+        Contents = (Oblivion>Data)
+(pet your animals) *all
+
+--------     4) Spell Delete and Item Remove v4.0
+        File Name = Spell Delete And Item Remove 4_0-23069.zip
+        Contents = (Oblivion>Data)
+Spell Delete And Item Remove.esp
+
+---------5) Complete Gardening v1.42
+        File Name = Complete Gardening-3852.zip
+        Contents = (Oblivion>Data)
+Gardening.esp
+
+--------     6) Real Time Lockpicking Minigames v0.8
+        File Name = Real Time Lockpicking Minigames-41486-0-8.zip
+        Contents = (Oblivion>Data)
+*All except .txt
+
+--------     7) Disenchant Spell v0.1a
+        File Name = DownloadME-10713.zip
+        Contents = (Oblivion>Data)
+Disenchant.esp
+
+--------     8) Dynamic Map v2.1.1
+        File Name = Dynamic Map 2_1_1-35969.7z
+        Contents = (Oblivion>Data)
+(00 Core)  *All
+(01 Elven Map) *All
+
+        File Name = Map Marker Overhaul 3_9_3-26389-3-9-3.7z
+        Contents = (Oblivion>Data)
+(00 Core) *All
+(01 Vanilla Icons) textures
+(02 SI additions) Map Marker Overhaul - SI additions.esp
+
+        File Name = Elven Map Redux-3002.rar
+        Contents = (Oblivion)
+data
+
+        File Name = Elven Map For Shivering Isles-16640.zip
+        Contents = (Oblivion)
+Data
+
+--------     9) Enhanced Hotkeys v2.3.1
+        File Name = Enhanced Hotkeys 2_3_1-34735-2-3-1.7z
+        Contents = (Oblivion>Data)
+Fonts
+Ini
+Menus
+Textures
+Enhanced Hotkeys.esp
+
+--------     10) Loot Menu v2.3.1
+        File Name = Loot Menu-48027-2-3-1-1591008181.7z
+        Contents = (Oblivion>Data)
+*All except (fonts) and .txt
+
+        File Name = UHD font-48027-1-1601502236.zip
+        Contents = (Oblivion>Data)
+fonts
+
+--------     11)  Torch Arrows
+        File Name =  Torch Arrows-27690-1-2.7z
+        Contents = (Oblivion>Data)
+*All
+
+--------     12)  Horse Management
+        File Name =  Horse Management-46021-1-31.7z
+        Contents = (Oblivion>Data)
+(00 Core Files (Required)) *All
+
+--------     1) Enchantment Mastery v1.07
+        File Name = Enchantment Mastery 107-24915.zip
+        Contents = (Oblivion>Data)
+EnchantmentMastery.esp
+EnchantmentMastery.ini
+
+--------     2) Sounds of Cyrodiil v1.1
+        File Name = SoC Full Version -39804-1-1.7z
+        Contents = (Oblivion>Data)
+Sound
+Sounds of Cyrodiil.esp
+
+--------     3) Unlimited Amulets and Rings v1.0
+        File Name = Unlimited Amulets and Rings-2246.zip
+        Contents = (Oblivion>Data)
+Unlimited Amulets 1.0.esp
+Unlimited Rings 1.0.esp
+
+--------     4) Dynamic Drink and Eat v0.5
+        File Name = Dynamic Drink and Eat-42997-0-5.zip
+        Contents = (Oblivion>Data)
+(Data) DynamicDrink&Eat.esp
+
+        File Name =  DynamicDrink&Eat Patch.zip
+        Contents = (Oblivion>Data)
+DynamicDrink&Eat.esp
+
+--------     5) Walk Blessed v15.5beta
+        File Name = WalkBlessed-49067-Beta15-5-1560188414.7z
+        Contents = (Oblivion)
+Data
+
+--------     6) Combat Hide v1.2
+        File Name = SM Combat Hide V1-2-20303.zip
+        Contents = (Oblivion>Data)
+SM Combat Hide.ini
+SM Combat Hide.esp
+
+--------     7) No More Wild Goose Chases v1.0
+File Name = No More Wild Goose Chases - Re-Patched and UOP Fixes Applied-49958-1-0-1584116993.7z
+        Contents = (Oblivion>Data)
+No More Wild Goose Chases.esp
+
+--------     8) Elys- Universal Silent Voice v0.93
+        File Name = OBSE -Elys- Universal Silent Voice v93-16622.zip
+        Contents = (Oblivion>Data>OBSE>Plugins)
+*All but .txt
+
+--------     9) Walk toOblivion
+        File Name = Walk ToOblivion v2x0-23690.zip
+        Contents = (Oblivion>Data)
+Walk toOblivion - OBSE.esp
+
+--------     10)  Full Harvest
+        File Name =  Full Harvest v1x0-23901.zip
+        Contents = (Oblivion>Data)
+Full Harvest.esp 
+
+--------     1)  A Tweaked ENB v181.1 beta (Full Install Only)
+        File Name = ATE181_1_beta-44146-1beta.zip
+        Contents = (Oblivion)
+Enbbloom.fx
+Enbeffect.fx
+Enbeffectprepass.fx
+Enbpalette.bmp
+Enbsunsprite.fx
+Enbsunsprite.tga
+(01Optional effects> SMAA) d3d9_smaa.dll
+(01Optional effects> SMAA) enbseries.ini
+(01Optional effects> SMAA) injector.ini
+(01Optional effects> SMAA) SMAA.fx
+(01Optional effects> SMAA) SMAA.h
+(01Optional effects> Film filter) effect.txt
+
+        File Name = v0.181
+        Contents = (Oblivion)
+D3d9.dll
+
+--------     2) Alive Waters v0.6 (Full Install Only)
+        File Name = AliveWaters-6914.rar
+        Contents = (Oblivion>Data)
+Meshes
+Textures
+AliveWaters - Koi Addon.esp
+AliveWaters.esp
+
+--------     3) Enhanced Character and NPC Textures (Full Install Only)
+        File Name = Blockhead 11.0-43752-11-0.7z
+        Contents = (Oblivion>Data)
+OBSE
+
+        File Name =Oblivion Character Overhaul v203-44676-2-03.zip
+        Contents = (Oblivion)
+Data
+
+        File Name = New Eyes for OCOv2-46995-1-5.7z
+        Contents = (Oblivion)
+Data
+
+        File Name = OCOv2 - DLC Faces-48557-1-2-1553765900.7z
+        Contents = (Oblivion>Data)
+OCO DLC Faces.esp (All DLC Only)
+
+        File Name = Realistic Mouth OCOv2-47463-1-2.rar
+        Contents = (Oblivion>Data)
+(Realistic Mouth) *All
+
+--------     4) Qarl’s Texture Pack v1.3 (Full Install Only)
+        File Name = QTP3 Redimized 1.0 Patched-45666-1-0.7z
+        Contents = (Oblivion>Data)
+Meshes
+textures
+
+--------     5) Enhanced Trees and Plants (Full Install Only)
+        File Name = Grass Overhaul v61-42400-v6-1.zip
+        Contents = (Oblivion>Data)
+Meshes
+Shaders
+Textures
+Grass Overhaul.esp
+
+        File Name = Improved Trees and Flora 2-11891.7z
+        Contents = (Oblivion>Data>Textures)
+(Textures) trees
+
+        File Name = ITF2Update-11891.7z
+        Contents = (Oblivion>Data>Textures)
+Trees
+Clutter
+architecture
+
+        File Name = ITF2Update-11891.7z
+        Contents = (Oblivion>Data>Meshes)
+Architecture
+Clutter
+landscape
+
+        File Name = ITFBark2012-11891-1.7z
+        Contents = (Oblivion>Data>Textures)
+trees
+
+        File Name = Better Cities - Vanilla Ferns-47880-0-5.7z
+        Contents = (Oblivion>Data)
+Better Cities - Vanilla Ferns.esp
+meshes
+
+--------     6) Loading Screens v1.0
+        File Name = LoadingScreens-13012.7z
+        Contents = (Oblivion>Data)
+(LoadingScreens) Menus
+(LoadingScreens) Textures
+(LoadingScreens) LoadingScreens.esp
+
+--------     7) Weapon Improvement Project v1.9
+        File Name = Weapon Improvement Project-43852-1-9.7z
+        Contents = (Oblivion>Data)
+*All except Docs
+
+--------     8) Arrow  Effects v1.2
+        File Name = Arrow Effects 1_2-25699.7z
+        Contents = (Oblivion>Data)
+SnArrowEffects.esp
+
+--------     9) Arrow Replacement Pack v1.0
+        File Name = Arrow Replacement Pack-9051.rar
+        Contents = (Oblivion>Data)
+Meshes
+
+--------     10) Beautiful Stars v1.0
+        File Name = Beautiful Stars-2520.rar
+        Contents = (Oblivion)
+data
+
+--------     11) Custom Spell Icons v3.1
+        File Name = Custom Spell Icons v3_1-26196.zip
+        Contents = (Oblivion>Data)
+CustomSpellIcons.esm
+Menus
+OBSE
+Textures
+CustomSpellIcons.ini
+Scripts
+
+--------     12) Leviathan Soulgems v1.0
+        File Name = Leviathan Soulgems-10403.rar
+        Contents = (Oblivion>Data)
+(Leviathan Soulgems) meshes
+(Leviathan Soulgems) textures
+(Leviathan Soulgems>Alternative Gems) *All
+
+        File Name = Updated Leviathan Soulgems Esp-10403.zip
+        Contents = (Oblivion>Data)
+Leviathan Soulgems.esp
+
+--------     13) Magic Visuals Overhaul v1.0
+        File Name = Magic Visuals Overhaul-49300-1-0-1555059849.rar
+        Contents = (Oblivion>Data)
+(Magic Visuals Overhaul) meshes
+(Magic Visuals Overhaul) textures
+
+        File Name = Lightning Crash Fix-49300-1-1-1589449550.rar
+        Contents = (Oblivion>Data)
+Magic Visuals Overhaul.esp
+
+        File Name = Luminars Better Enchantment Effects-7269.zip
+        Contents = (Oblivion>Data)
+Textures
+lumi_enchantments_subtle.esp
+
+        File Name = Initial Glow Redux-46961--3.7z
+        Contents = (Oblivion>Data)
+Initial Glow Redux.esp
+
+        File Name = magic visuals overhaul patch 5154-2132.zip
+        Contents = (Oblivion>Data)
+Lumi_enchantments_subtle.esp
+Magic Visuals Overhaul.esp
+Textures
+
+--------     14) Falling Stars v1.0
+        File Name = Falling Stars-35593-1.7z
+        Contents = (Oblivion>Data)
+*All except .txt
+
+--------     15) Insanity's Improved Armoury Compilation v1.21
+        File Name = Insanity's Improved Armoury Compilation v1.21.7z
+        Contents = (Oblivion>Data)
+(00 Core Files) Textures
+(01 Alternate Elven – Golden) Textures
+(02 Alternate Glass - Darker Green) Textures
+
+--------     16) Mikes Clothes Replacer v11
+        File Name = Mikes Clothes Replacer v11-7487.7z
+        Contents = (Oblivion>Data)
+(Mike's Clothes Replacer v1.1 (compatibile with UOP 3) *All except .txt
+
+--------     17) Shivering Isles Upscaled  Textures v1 (Full Install Only)
+        File Name = 1kart_SIUT_default_2x-49645-1-1577958901.7z
+        Contents = (Oblivion>Data)
+*All
+
+--------     18) Better Beer Bottles v1.3
+        File Name = Better Beer Bottles-4574.zip
+        Contents = (Oblivion>Data)
+Textures
+Cyrodilic Brandy.esp
+
+--------     19) Imperial Roads v1.0
+        File Name = Imperial Roads-46744-1.7z
+        Contents = (Oblivion)
+Data
+
+        File Name = Bruma cobblestone-46744-1.7z
+        Contents = (Oblivion>Data)
+Textures
+
+--------     20) Improved Skulls and Bones and ironwork v1.1
+        File Name = Improved Skulls and Bones and ironwork-36075-1-1.7z
+        Contents = (Oblivion>Data)
+textures
+
+--------     21) New Nebular v2.0
+        File Name = New Nebular-8569.rar
+        Contents = (Oblivion)
+(Ultra_4096x2048) Data
+
+--------     22) Unique Signs v1.0
+        File Name = Unique Signs-25314.zip
+        Contents = (Oblivion>Data)
+Textures
+
+--------     23) Book Jackets v1.0
+        File Name = _Book JacketsOblivion High Res-5570.7z
+        Contents = (Oblivion>Data)
+Textures
+Meshes
+Book JacketsOblivion.esp
+
+--------     24)  Better Horse Eyes
+        File Name = Better Horse Eyes-2808.zip
+        Contents = (Oblivion>Data)
+meshes
+textures
+
+--------     25) Glowing Wonders
+        File Name = Glowing Wonders-43331-v1-0.zip
+        Contents = (Oblivion>Data)
+sound
+Glowing Wonders.esp
+
+--------     26) HD Cobwebs
+        File Name = HD Cobwebs-50488-1-0-1603993466.7z
+        Contents = (Oblivion)
+Data
+
+--------     27) HD Varla and Welkynd Textures
+        File Name = High-Res Varla and Welkynd Texture Replacer-36814-2-0.7z
+        Contents = (Oblivion>Data)
+(00 High-Res Varla & Welkynd Textures) Textures
+(01 Fixed UV Meshes w. 2x UV Scaling) Meshes
+(02 More Meshes w. New Iron Tex & 2x UV Scaling) Meshes
+(02 More Meshes w. New Iron Tex & 2x UV Scaling) Textures
+
+--------     28) HiRez Daedric Shrines
+        File Name = HiRez Daedric Shrines-43442-1-0.zip
+        Contents = (Oblivion>Data)
+(HiRez Architecture- Daedric Shrines) Textures
+
+--------     29) HiRez God Statues
+        File Name = HiRez God Statues-43356-1-1.zip
+        Contents = (Oblivion>Data)
+(HiRez Architecture- God Statues) Textures
+
+--------     30) HD Amulets and Rings
+        File Name = ImprovedAmuletsAndRings-17147.7z
+        Contents = (Oblivion>Data)
+textures
+meshes
+
+--------     31) Kaizits Animated Ingredients
+        File Name = Kaizits Animated Daedric Ingredients-46992-1-0.rar
+        Contents = (Oblivion)
+(Kaizits Animated Daedric Ingredients) data
+
+        File Name = Kaizits Animated Daedric Ingredients fix-46992-.rar
+        Contents = (Oblivion)
+(Kaizits Animated Daedric Ingredientsfix) data
+
+        File Name = Kaizits Animated Ingredients-46962-1-0.zip
+        Contents = (Oblivion)
+(Kaizits Animated ingredients) data
+
+        File Name = Kaizits Animated ingredients v1.1-46962-1-1.rar
+        Contents = (Oblivion)
+(Kaizits Animated ingredients 1.1) data
+
+        File Name = Kaizits Animated ingredients v 1.1 fix-46962-.rar
+        Contents = (Oblivion)
+data
+
+--------     32) Nirnroot retexture
+        File Name = Nirnroot retexture-45018-1-0.rar
+        Contents = (Oblivion>Data)
+textures
+meshes
+
+--------     33)Oblivion Realm HD 
+        File Name =Oblivion Realm HD-43100-1-0.7z
+        Contents = (Oblivion)
+data
+
+
+--------     34) Retextured Road Signs
+        File Name = Retextured Road Signs-48235-1-0.7z
+        Contents = (Oblivion>Data)
+textures
+meshes
+
+--------     35) Better Shaders
+        File Name = Better Underwater for OR and ORL-50601-1-00-1607426732.7z
+        Contents = (Oblivion>Data)
+(00 Balanced) Shaders
+(00 Balanced) UnderwaterFogBegone.esp
+
+        File Name = Night-Eye Color Version-50601-1-00-1607426772.7z
+        Contents = (Oblivion>Data)
+(00 Color 10) Shaders
+
+--------     36) Immersive Interiors
+        File Name = Weather - All Natural-18305-1-38-1548910107.7z
+        Contents = (Oblivion>Data)
+00 Core\ini
+00 Core\All Natural - SI.esp
+00 Core\All Natural Base.esm
+00 Core\All Natural.bsa
+04 Kvatch Rebuilt Patch\meshes
+04 Kvatch Rebuilt Patch\Kvatch Rebuilt Weather Patch.esp
+
+        File Name = Immersive Interiors 0-81-34199.zip
+        Contents = (Oblivion>Data)
+Meshes
+Textures
+ini
+
+        File Name = ImmersiveInteriorsLandscapeAddOn_1_10-43072-1-10.7z
+        Contents = (Oblivion>Data)
+Meshes
+Textures
+
+        File Name = Immersive Interiors Patch 4465.zip
+        Contents = (Oblivion>Data)
+All Natural.esp
+Immersive Interiors - Landscape Addon.esp
+Immersive Interiors.esp
+
+--------     37)  Umbra Sword Replacer
+        File Name =  Umbra Sword Replacer-43762-1-0.7z
+        Contents = (Oblivion>Data)
+Textures
+Meshes
+
+--------     38) Creature Diversity v1.14b
+        File Name = Creature Diversity 1.14-26634-1-14.7z
+        Contents = (Oblivion>Data)
+*All but .txt
+
+--------     39) Shiny Septims v1.0
+    File Name = Shiny Septims -Oblivion-23733.rar
+        Contents = (Oblivion>Data)
+(Shiny Septims –Oblivion) meshes
+(Shiny Septims –Oblivion) textures
+(Shiny Septims –Oblivion) ShinySeptims_Trajanus.esp
+
+--------     40)  High Quality Snowflakes
+        File Name =  High Quality Sowflakes-46625-1-0.zip
+        Contents = (Oblivion>Data)
+(High Quality Snowflake) textures
+
+--------     1)Oblivion Remastered Essential
+        File Name =Oblivion Remastered.7z 
+        Contents = (Oblivion)
+Data
+enbseries.ini
+effect.txt
+V2.2.1.olod
