@@ -10,7 +10,7 @@ namespace OblivionModPackInstaller
     class OblivionRemasteredParser
     {
 
-        public static List<ModPack> ParseDoc()
+        public static List<ModPack> ParseDoc(string filePath)
         {
 
             List<string> folders = new List<string>()
@@ -30,6 +30,8 @@ namespace OblivionModPackInstaller
                 ,"Menus"
             };
 
+            char[] charsToTrim = { ' ' };
+
             string line = "";
             List<ModPack> mods = new List<ModPack>();
 
@@ -41,7 +43,7 @@ namespace OblivionModPackInstaller
             Regex Location = new Regex(pattern_Location, RegexOptions.Compiled | RegexOptions.IgnoreCase);
             Match mc;
 
-            string path = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"..\..\..\ModList.txt");
+            string path = filePath;
             
             string fileName = "";
             string archive = "";
@@ -50,19 +52,24 @@ namespace OblivionModPackInstaller
 
             System.IO.StreamReader file = new System.IO.StreamReader(path);
             while ((line = file.ReadLine()) != null)
-            {                
+            {
+                
+                if (line == "--------     39) Oblivion Remastered Essential")
+                {
+                    Console.WriteLine();
+                }
 
                 if (ModName.IsMatch(line))
                 {
                     mc = ModName.Match(line);
 
-                    fileName = mc.Groups[1].Value;
+                    fileName = mc.Groups[1].Value.Trim(charsToTrim);
                 }
                 else if (FileName.IsMatch(line))
                 {
                     mc = FileName.Match(line);
 
-                    archive = mc.Groups[1].Value;
+                    archive = mc.Groups[1].Value.Trim(charsToTrim);
                 }
                 else if (Location.IsMatch(line))
                 {
@@ -70,11 +77,11 @@ namespace OblivionModPackInstaller
 
                     location = mc.Groups[1].Value;
 
-                    location = location.Replace(">", "\\");
+                    location = location.Replace(">", "\\").Trim(charsToTrim);
                 }
                 else if (line != "")
                 {
-                    files.Add(line);
+                    files.Add(line.Trim(charsToTrim));
                 }
                 else
                 {
@@ -110,7 +117,7 @@ namespace OblivionModPackInstaller
                     match = re_Folder.Match(file);
                     tempFile = "";
 
-                    tempFile += match.Groups[1].Value + "\\" + (match.Groups[2].Value.Contains("*") ? "" : match.Groups[2].Value);
+                    tempFile += match.Groups[1].Value + "," + (match.Groups[2].Value.Contains("*") ? "." : match.Groups[2].Value);
 
                     tempFile = tempFile.Replace(">", "\\");
 
